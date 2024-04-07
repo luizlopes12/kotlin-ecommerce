@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048069443077",
+    "project_id": "kotlin-ecommerce-3332c",
+    "storage_bucket": "kotlin-ecommerce-3332c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048069443077:android:ae94c900d3446ecd5d966c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2m93THaLr5b5Oz-V-4x0wG_EjHQbjGFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
